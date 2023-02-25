@@ -1,0 +1,181 @@
+body
+{
+    margin: 0px;
+    font-family: segoe UI;
+    line-height: 1.7;
+}
+.container
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 133px;
+    padding-right: 133px;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+}
+.nav-logo:hover
+{
+    cursor: pointer;
+}
+.nav-bar ul 
+{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.nav-bar li
+{
+    padding-left: 40px;
+   
+}
+.hov:hover
+{
+  cursor: pointer;
+}
+button:hover
+{
+    cursor: pointer;
+}
+.nav-bar li:hover
+{
+    cursor: pointer;
+    color: rgb(56,126,209);
+}
+.nav-bar
+{
+    margin-left: 400px;
+}
+#side-div
+{
+    margin-left: 700px;
+    margin-top:-350px ;
+}
+#ul-two
+{
+  margin-left: 250px;
+  margin-top: -80px;
+}
+#ul-one
+{
+    margin-top: 30px;
+}
+#unbeatable
+{
+    margin-left: 160px;
+    margin-top: 110px;
+}
+
+#tab
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 700px;
+   margin-top: -190px;
+   text-align: center;
+}
+h1
+{
+    font-size: 35px;
+    font-family: Calibri Light (Headings);
+    font-weight: 500;
+    color: rgb(66,66,66);
+}
+.flex
+{
+    box-sizing: border-box;
+    min-height: 190px;
+    padding: 0 25px;
+    flex-basis: content;
+    width: 48%;
+    flex-basis:38%;
+    border: 1px solid #ccc;
+}
+#side-text
+{
+    margin-left: 660px;
+    margin-top: -300px;
+}
+#last
+{
+    margin-top: 120px;
+    text-align: center;
+}
+#footer-top-left
+{
+    padding-top: 50px;
+    padding-left: 150px;
+}
+#social-media-icons,i
+{
+ padding: 10px;
+ }
+ #social-media-icons
+ {
+
+    padding-left: 150px;
+ }
+ #footer-left-one
+ {
+    padding-left: 500px;
+    margin-top: -475px;
+ }
+ h3
+ {
+    color:rgb(66,66,66);
+ }
+.unordered-list
+ {
+list-style: none;
+margin-left: -30px;
+font-family: Calibri Light (Headings);
+font-weight: 500;
+
+ }
+ 
+ li:hover
+ {
+    cursor: pointer;
+ }
+ #footer-left-second
+ {
+    padding-left: 750px;
+    margin-top: -290px;
+ }
+ i:hover
+ {
+    cursor: pointer;
+ }
+ #footer-left-third
+ {
+    padding-left: 980px;
+    margin-top: -260px;
+ }
+ #footer-foot
+ {
+    font-size: 10px;
+    padding-top: 170px;
+    padding-left: 150px;
+    padding-right: 150px;
+ }
+ #footer-final
+ {
+    display: flex;
+    font-size: 12px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 230px;
+    padding-right: 230px;
+    justify-content: space-between;
+    background-color: #fafafb;
+    padding-bottom: 10px;
+ }
+ #footer-final>span:hover
+ {
+cursor: pointer;
+color:rgb(56,126,209);
+ }
+ 
